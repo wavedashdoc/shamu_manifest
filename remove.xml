@@ -46,9 +46,6 @@
   <remove-project name="device/linaro/hikey-kernel" />
   <remove-project name="device/sample" />
 
-  <!-- Framework repos -->
-  <remove-project name="platform/frameworks/base" />
-
   <!-- Hardware repos -->
   <remove-project name="platform/hardware/intel/audio_media" />
   <remove-project name="platform/hardware/intel/bootstub" />
@@ -64,8 +61,6 @@
   <remove-project name="platform/hardware/intel/img/psb_headers" />
   <remove-project name="platform/hardware/intel/img/psb_video" />
   <remove-project name="platform/hardware/intel/sensors" />
-  <remove-project name="platform/hardware/interfaces" />
-  <remove-project name="platform/hardware/ril" />
 
   <!-- Kernel repos -->
   <remove-project name="kernel/tests" />
@@ -77,20 +72,17 @@
   <remove-project name="platform/packages/apps/Email" />
   <remove-project name="platform/packages/apps/Gallery" />
   <remove-project name="platform/packages/apps/Launcher2" />
-  <remove-project name="platform/packages/apps/Launcher3" />
   <remove-project name="platform/packages/apps/LegacyCamera" />
   <remove-project name="platform/packages/apps/Music" />
   <remove-project name="platform/packages/apps/Phone" />
   <remove-project name="platform/packages/apps/Protips" />
   <remove-project name="platform/packages/apps/QuickSearchBox" />
   <remove-project name="platform/packages/apps/RetailDemo" />
-  <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/packages/apps/SoundRecorder" />
   <remove-project name="platform/packages/apps/SpareParts" />
   <remove-project name="platform/packages/apps/SpeechRecorder" />
   <remove-project name="platform/packages/apps/Test/connectivity" />
   <remove-project name="platform/packages/apps/UnifiedEmail" />
-  <remove-project name="platform/packages/inputmethods/LatinIME" />
   <remove-project name="platform/packages/inputmethods/OpenWnn" />
   <remove-project name="platform/packages/screensavers/Basic" />
   <remove-project name="platform/packages/screensavers/PhotoTable" />
